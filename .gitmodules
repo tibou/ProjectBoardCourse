@@ -1,0 +1,6 @@
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/tibou/react-app.git
+[submodule "springapp"]
+	path = springapp
+	url = https://github.com/tibou/springapp.git
